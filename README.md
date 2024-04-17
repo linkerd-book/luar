@@ -6,7 +6,10 @@ code relevant for that chapter.
 
 At the moment, the repository _just contains the code_ for the most part:
 you'll need the book to get much out of this. Don't have a copy of the book?
-Grab a copy from [O'Reilly], [Amazon], or your favorite bookseller.
+Check it out on the [O'Reilly learning platform], grab a copy from [Amazon] or
+[eBooks], or find it at your favorite bookseller.
 
-[O'Reilly]: https://www.oreilly.com/library/view/linkerd-up-and/9781098142308
+[O'Reilly learning platform]: https://www.oreilly.com/library/view/linkerd-up-and/9781098142308
 [Amazon]: https://www.amazon.com/Linkerd-Running-Operationalizing-Kubernetes-native-Service/dp/1098142314
+[eBooks]: https://www.ebooks.com/en-us/book/211311878/linkerd-up-and-running/jason-morgan/
+
